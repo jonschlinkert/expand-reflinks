@@ -1,0 +1,2 @@
+[foo]: [github]
+[github]: [foo]

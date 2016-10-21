@@ -3,4 +3,4 @@
 [qux]: [baz]/qux
 [baz]: [bar]/baz
 [bar]: [foo]/bar
-[foo]: foo
+[foo]: last

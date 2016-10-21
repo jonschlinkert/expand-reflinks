@@ -1,6 +1,6 @@
-[abc]: foo/bar/abc/foo
-[fez]: foo/bar/baz/qux/fez
-[qux]: foo/bar/baz/qux
-[baz]: foo/bar/baz
-[bar]: foo/bar
-[foo]: foo
+[abc]: last/bar/abc/last
+[fez]: last/bar/baz/qux/fez
+[qux]: last/bar/baz/qux
+[baz]: last/bar/baz
+[bar]: last/bar
+[foo]: last
